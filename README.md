@@ -38,6 +38,8 @@ Once python is install, the next step is to install ***pywin32*** python module.
 
 * **Amit Kumar** - *Initial work* - [ManyCode](https://github.com/ManyCode)
 
+See also the list of [contributors](https://github.com/ManyCode/Automated-Input-Console-AIC-/contributors) who participated in this project.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
