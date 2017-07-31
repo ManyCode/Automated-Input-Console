@@ -19,7 +19,7 @@ Choose execute program option to execute program. Executing program through **AI
 
 Python 2.7
 
-Windows7 or above
+Windows XP (or above)
 
 PyWin32 Python module
 
