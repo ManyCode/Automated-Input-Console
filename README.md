@@ -21,6 +21,8 @@ Python 2.7
 
 Windows7 or above
 
+PyWin32 Python module
+
 ### Installing
 
 This project only works on Windows.
